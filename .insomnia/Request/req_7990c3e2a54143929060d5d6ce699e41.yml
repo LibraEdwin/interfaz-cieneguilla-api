@@ -1,0 +1,21 @@
+_id: req_7990c3e2a54143929060d5d6ce699e41
+type: Request
+parentId: fld_ef288c648afa4d2298739cf49b8afb60
+modified: 1642176864018
+created: 1642176116823
+url: http://localhost:3002/api-cieneguilla-service/usuario/100
+name: Delete uruario
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1642176116823
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

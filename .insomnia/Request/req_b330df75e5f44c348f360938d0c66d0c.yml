@@ -1,0 +1,21 @@
+_id: req_b330df75e5f44c348f360938d0c66d0c
+type: Request
+parentId: fld_ef288c648afa4d2298739cf49b8afb60
+modified: 1642175041116
+created: 1642174474370
+url: "{{ _.URL }}/ api-cieneguilla-service/usuario?codigo=1 "
+name: Listar usuario
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1642174474370
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,8 @@
+.gcloudignore
+.git
+.gitignore
+.eslintrc.js
+
+# Node.js dependencies:
+/pages
+/node_modules

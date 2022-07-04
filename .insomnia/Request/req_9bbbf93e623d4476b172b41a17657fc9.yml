@@ -1,0 +1,21 @@
+_id: req_9bbbf93e623d4476b172b41a17657fc9
+type: Request
+parentId: fld_ef288c648afa4d2298739cf49b8afb60
+modified: 1642175474348
+created: 1642175455931
+url: "{{ _.URL }}/api-cieneguilla-service/usuario"
+name: Insertar usuario
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1642175455931
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

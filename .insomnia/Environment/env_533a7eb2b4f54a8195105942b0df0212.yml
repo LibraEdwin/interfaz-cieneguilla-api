@@ -1,0 +1,16 @@
+_id: env_533a7eb2b4f54a8195105942b0df0212
+type: Environment
+parentId: env_da1749afa49038f8f6d31d6075767371e4071628
+modified: 1642177611917
+created: 1642174601953
+name: Develop
+data:
+  url: http://localhost:3002
+  user: jowa
+dataPropertyOrder:
+  "&":
+    - url
+    - user
+color: null
+isPrivate: false
+metaSortKey: 1642174601953
